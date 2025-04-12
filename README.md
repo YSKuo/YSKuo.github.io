@@ -7,7 +7,7 @@ This project showcases the application of advanced machine learning techniques t
 
 ---
 
-### [Go gRPC Server and Client]([https://github.com/YSKuo/AccountSharingDetection_ML_Capstone](https://github.com/YSKuo/go-grpc-demo))
+### [Go gRPC Server and Client](https://github.com/YSKuo/go-grpc-demo)
 The project is a demo for simple gRPC server and client with the following functionality:
 
 - simple RPC
