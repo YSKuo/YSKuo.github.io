@@ -1,5 +1,10 @@
 title: Arsene Kuo
-# logo: 
-#description: 
-# show_downloads: true
+#logo: 
+description: >
+  I am Arsene Kuo. 
+  <br><br>
+  A software engineer specializing in web development and cybersecurity.
+  <br><br>
+  <a href="https://www.linkedin.com/in/yanshengkuo/" target="_blank">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
+# show_downloads: true
