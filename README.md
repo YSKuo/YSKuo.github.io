@@ -3,7 +3,10 @@
 ## Learn About My Projects
 
 ### [Account Sharing Detection: A Machine Learning Approach](https://github.com/YSKuo/AccountSharingDetection_ML_Capstone)
-This project showcases the application of advanced machine learning techniques to address a critical business problem: the detection of account sharing
+
+![Account sharing](https://github.com/YSKuo/AccountSharingDetection_ML_Capstone/blob/main/images/account_sharing.jpg?raw=true)
+
+This project showcases the application of advanced machine learning techniques to address a critical business problem: the detection of account sharing. By leveraging Python and its robust ecosystem of data science libraries, I developed a predictive model capable of identifying instances of unauthorized credential sharing.
 
 ---
 
