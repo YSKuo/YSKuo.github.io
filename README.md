@@ -12,7 +12,7 @@ This project showcases the application of advanced machine learning techniques t
 
 ### [Go gRPC Server and Client](https://github.com/YSKuo/go-grpc-demo)
 
-![gRPC image](https://raw.githubusercontent.com/YSKuo/go-grpc-demo/b2f43ec8583a6a091629ec6f21d420393d74dba7/images/scale_icon.svg)
+![gRPC communication](https://github.com/YSKuo/go-grpc-demo/blob/main/images/gRPC_image.png?raw=true)
 
 This project, demonstrating simple, server-side streaming, client-side streaming, and bidirectional streaming RPC functionalities with Go and gRPC, offers a robust foundation for building high-performance, scalable, and interoperable microservices.
 
@@ -20,3 +20,6 @@ This project, demonstrating simple, server-side streaming, client-side streaming
 
 ### [go-fullstack-app](https://github.com/YSKuo/go-fullstack-app)
 
+![Fullstack App with Go & React](https://github.com/YSKuo/go-fullstack-app/blob/main/images/fullstack_app.png?raw=true)
+
+This is a full-stack web application designed to demonstrate the integration of modern frontend and backend technologies. It serves as a practical example of how to build scalable and maintainable web applications using contemporary development tools and practices.
