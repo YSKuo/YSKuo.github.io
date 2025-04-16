@@ -1,10 +1,15 @@
-title: Arsene Kuo
-#logo: 
+title: "Arsene Kuo"
+logo: "/images/profile_img.png"
 description: >
   I am Arsene Kuo. 
   <br><br>
   A software engineer specializing in web development and cybersecurity.
   <br><br>
   <a href="https://www.linkedin.com/in/yanshengkuo/" target="_blank">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
-# show_downloads: true
+show_downloads: false
+
+author:
+  name: "Arsene K"
+  email: "crowley3141@gmail.com"

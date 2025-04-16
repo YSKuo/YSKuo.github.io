@@ -11,9 +11,12 @@ This project showcases the application of advanced machine learning techniques t
 ---
 
 ### [Go gRPC Server and Client](https://github.com/YSKuo/go-grpc-demo)
-The project is a demo for simple gRPC server and client with the following functionality:
 
-- simple RPC
-- server-side streaming RPC
-- client-side streaming RPC
-- bidirectional streaming RPC
+![gRPC image](https://raw.githubusercontent.com/YSKuo/go-grpc-demo/b2f43ec8583a6a091629ec6f21d420393d74dba7/images/scale_icon.svg)
+
+This project, demonstrating simple, server-side streaming, client-side streaming, and bidirectional streaming RPC functionalities with Go and gRPC, offers a robust foundation for building high-performance, scalable, and interoperable microservices.
+
+---
+
+### [go-fullstack-app](https://github.com/YSKuo/go-fullstack-app)
+
