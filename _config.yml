@@ -9,8 +9,7 @@ description: >
 
 theme: jekyll-theme-minimal
 show_downloads: false
-google_analytics: G-V9QR9PVP9R
-# target: G-TS8QKBDJSD
+# google_analytics: G-V9QR9PVP9R
 
 author:
   name: "Arsene K"
